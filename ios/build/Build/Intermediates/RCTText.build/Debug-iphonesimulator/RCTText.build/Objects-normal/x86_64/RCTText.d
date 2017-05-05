@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/sambo/ReactCalculator/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/sambo/ReactCalculator/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

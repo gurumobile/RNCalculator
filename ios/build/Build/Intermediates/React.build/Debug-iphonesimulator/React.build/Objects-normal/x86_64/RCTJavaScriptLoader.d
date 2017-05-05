@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sambo/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/sambo/ReactCalculator/node_modules/react-native/React/Base/RCTUtils.h
